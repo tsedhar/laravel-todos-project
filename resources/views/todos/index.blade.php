@@ -16,7 +16,7 @@
 </head>
 
 <body>
-<h1> Todos page</h1>
+<h1> List of Todos</h1>
 <ul>
 	@foreach($todos as $todo)
 		<li>
